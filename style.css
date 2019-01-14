@@ -1,0 +1,86 @@
+img {
+    padding-top: 140px;
+    padding-bottom: 20px;
+    display: block;
+    margin: auto;
+}
+
+input[type=text] {
+    width: 450px;
+    height: 38px;
+    display: block;
+    margin: auto;
+    box-shadow: 1px 1px 0px #999;
+}
+
+input[type=submit] {
+    border: none;
+    padding: 10px;
+    color: rgb(92, 89, 89);
+    background-color: rgba(248, 240, 240, 0.925);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
+.centerButtons {
+    text-align: center;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: inline;
+}
+
+.rightNavbar {
+    float: right;
+    font-size: 14px;
+}
+
+.navbar li {
+    position: relative;
+    padding: 10px 0 10px 0;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 30px;
+    text-align: center;
+    color: rgb(78, 76, 76);
+}
+
+li {
+    font-size: 14px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(245, 235, 235);
+    color: rgb(114, 110, 110);
+}
+
+.rightFooter {
+    float: right;
+    font-size: 14px;
+}
+
+.footer ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: inline;
+}
+
+.footer li {
+    position: relative;
+    padding: 10px 0 10px 0;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
